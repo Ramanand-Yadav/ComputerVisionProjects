@@ -28,15 +28,17 @@ In this Readme File I have defined how to run the files in this repository.
             * Run the Code using shift + enter
 
         **output**
-
-         ![Surprise 😮](image/hil.jpeg "Title")
+        <br><br>
+        <img src="image/hil.jpeg"><br><br>
+         
    
    * **OpenCv and Mediapipe** : This is the code if someone wants to learn open cv and mediapipe from scratch.
         * To run the code 
              * Open Jupyter Notebook
              * Run the code using shift + enter
-
-
+<br><br>
+**-------------------------------------------------------------------------------------------------------------------**
+<br><br>
 
 * # Project 01 .   Emotion Detection :
   ## This folder contains Four files
@@ -54,22 +56,22 @@ In this Readme File I have defined how to run the files in this repository.
 **some output pic**
 
 Happy 😀
-
-    ![Happy 😀](image/Emotion1.jpeg "Title")
+<br><br>
+<img src="image/Emotion1.jpeg">
+<br><br>
 
 Neutral 🙂
+<br><br>
+<img src="image/Emotion2.jpeg">
+<br><br>
     
-    ![Neutral 🙂](image/Emotion2.jpeg "Title")
-
-
 Surprise 😮
-    
-    ![Surprise 😮](image/Emotion3.jpeg "Title")
 
+<br><br>
+<img src="image/Emotion3.jpeg">
+<br><br>
 
-
-
-
+**-------------------------------------------------------------------------------------------------------------------**
 * # Project 02 . Gym Assistant : 
     ## This is the ipynb file which needed to be run in jupyter notebook to check your push - ups count and up down counts.
 
@@ -79,7 +81,10 @@ Surprise 😮
 
     **output**
 
-        ![Gym 😮](image/Gym.jpeg "Title")
+    Gym 😮
+        <br><br>
+        <img src="image/Gym.jpeg"><br><br>
+**-------------------------------------------------------------------------------------------------------------------**
 
 * # Project 03 . Temple Run Automation  : 
     ## This is the extendsion of automation of hill climb game. In this we are automating the  populated temple run game.
@@ -89,9 +94,13 @@ Surprise 😮
         * Press shift + enter on each code block
 
     **output**
-        
-        ![Surprise 😮](image/Temple.jpeg "Title")
 
+     Surprise 😮
+        <br><br>
+<img src="image/Temple.jpeg">
+<br><br>
+
+**-------------------------------------------------------------------------------------------------------------------**
 * # Project 04 . Virtual Keyboard  : 
     ##  Now a days technology is faster and wireless so we got an idea to capture keys without any touch and presented our virtual keyboard.
 
@@ -100,7 +109,28 @@ Surprise 😮
         * Press shift + enter on each code block
 
     **output**
+
+    Surprise 😮
+        <br><br>
+<img src="image/keyboard.jpeg">
+<br><br>
     
-        ![Surprise 😮](image/keyboard.jpeg "Title")
-    
-* # Project 05 . 
+* # Project 05 Air Drum. 
+*    ## In this i build a virtual drum set using basic concepts in computer vision using OpenCV. 
+
+* To Run 
+    * Open any editor install requirements.txt
+    * run python airdrum.py
+
+`Blue and Red sticks are needed because I have used a detection window that would detect the color Blue and red.`
+
+**output**
+
+Surprise 😮
+<br><br>
+<img src="image/airdrum.png">
+<br><br>
+
+
+
+
