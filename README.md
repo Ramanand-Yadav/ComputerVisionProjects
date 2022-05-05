@@ -37,7 +37,7 @@ In this Readme File I have defined how to run the files in this repository.
              * Open Jupyter Notebook
              * Run the code using shift + enter
 <br><br>
-**-------------------------------------------------------------------------------------------------------------------**
+**-----------------------------------------------------------------------------------------------------------------**
 <br><br>
 
 * # Project 01 .   Emotion Detection :
@@ -114,6 +114,8 @@ Surprise 😮
         <br><br>
 <img src="image/keyboard.jpeg">
 <br><br>
+
+**-----------------------------------------------------------------------------------------------------------------**
     
 * # Project 05 Air Drum. 
 *    ## In this i build a virtual drum set using basic concepts in computer vision using OpenCV. 
