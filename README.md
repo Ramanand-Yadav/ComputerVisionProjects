@@ -22,9 +22,9 @@ this readme file contains projects and learning material for openCv.
 
 * Dataset: [Download Sat2Map Dataset](https://drive.google.com/drive/folders/1raKeAoFZp5Sc1gtN1VLuq52q2V4vm87S?usp=sharing)
   
-   * **CV Notes 1** : [computer vision lecture 01]()
-   * **Cv Notes 2** : Computer vision Lecture 2. 
-   * **Hill Climb Automation**  :  This is the project of Computer Vision in which both openCv and Mediapipe is used. 
+   * **CV Notes 1** : [computer vision lecture 01](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes1.pdf)
+   * **Cv Notes 2** : [Computer vision Lecture 02](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes2.pdf) 
+   * **[Hill Climb Automation](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/Hill%20Climb%20Automation%20Game.ipynb)**  :  This is the project of Computer Vision in which both openCv and Mediapipe is used. 
         *   To run this project : 
             * Open Jupyter Notebook
             * Run the Code using shift + enter
@@ -34,7 +34,7 @@ this readme file contains projects and learning material for openCv.
         <img src="image/hil.jpeg"><br><br>
          
    
-   * **OpenCv and Mediapipe** : This is the code if someone wants to learn open cv and mediapipe from scratch.
+   * **[OpenCv and Mediapipe](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/OpenCV%20And%20Mediapipe.ipynb)** : This is the code if someone wants to learn open cv and mediapipe from scratch.
         * To run the code 
              * Open Jupyter Notebook
              * Run the code using shift + enter
@@ -42,7 +42,7 @@ this readme file contains projects and learning material for openCv.
 **-----------------------------------------------------------------------------------------------------------------**
 <br><br>
 
-* # Project 01 .   Emotion Detection :
+* # [Emotion Detection : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/EmotionDetection)
   ## This folder contains Four files
    
    * **Emotion_Detection.h5** : This is the model which is already trained.
@@ -74,7 +74,7 @@ Surprise 😮
 <br><br>
 
 **-------------------------------------------------------------------------------------------------------------------**
-* # Project 02 . Gym Assistant : 
+* # [Gym Assistant : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/GymAssistant)
     ## This is the ipynb file which needed to be run in jupyter notebook to check your push - ups count and up down counts.
 
     * To run 
@@ -88,7 +88,7 @@ Surprise 😮
         <img src="image/Gym.jpeg"><br><br>
 **-------------------------------------------------------------------------------------------------------------------**
 
-* # Project 03 . Temple Run Automation  : 
+* # [Temple Run Automation  : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/templeRun)
     ## This is the extendsion of automation of hill climb game. In this we are automating the  populated temple run game.
 
     * To run 
@@ -103,7 +103,7 @@ Surprise 😮
 <br><br>
 
 **-------------------------------------------------------------------------------------------------------------------**
-* # Project 04 . Virtual Keyboard  : 
+* # [Virtual Keyboard  : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/VirtualKeyboard) 
     ##  Now a days technology is faster and wireless so we got an idea to capture keys without any touch and presented our virtual keyboard.
 
     * To run 
@@ -119,7 +119,7 @@ Surprise 😮
 
 **-----------------------------------------------------------------------------------------------------------------**
     
-* # Project 05 Air Drum. 
+* # [Air Drum : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/AirDrum) 
 *    ## In this i build a virtual drum set using basic concepts in computer vision using OpenCV. 
 
 * To Run 
