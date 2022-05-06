@@ -21,17 +21,22 @@ this readme file contains projects and learning material for openCv.
 ## This folder contains four files
 
   
-   * **CV Notes 1** : [computer vision lecture 01](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes1.pdf)
-   * **Cv Notes 2** : [Computer vision Lecture 02](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes2.pdf) 
-   * **[Hill Climb Automation](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/Hill%20Climb%20Automation%20Game.ipynb)**  :  This is the project of Computer Vision in which both openCv and Mediapipe is used. 
-        *   Open Jupyter Notebook and you can run the project
+   * **1. CV Notes 1** : [computer vision lecture 01](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes1.pdf)
+   * **2. Cv Notes 2** : [Computer vision Lecture 02](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes2.pdf) 
+* **3. [OpenCv and Mediapipe](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/OpenCV%20And%20Mediapipe.ipynb)**  This is the code if anyone wants to learn open cv and mediapipe from scratch.
 
-        **output**
+
+* **4. [Hill Climb Automation](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/Hill%20Climb%20Automation%20Game.ipynb)**  : 
+This is the project of Computer Vision in which both openCv and Mediapipe is used.
+
+* Open Jupyter Notebook and you can run the project
+
+**output**
         <br><br>
         <img src="image/hil.jpeg"><br><br>
          
    
-   * **[OpenCv and Mediapipe](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/OpenCV%20And%20Mediapipe.ipynb)** : This is the code if anyone wants to learn open cv and mediapipe from scratch.
+
         
 <br><br>
 **-----------------------------------------------------------------------------------------------------------------**
