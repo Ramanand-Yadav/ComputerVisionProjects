@@ -20,7 +20,6 @@ this readme file contains projects and learning material for openCv.
 * # Learning Material for Computer Vision :
 ## This folder contains four files
 
-* Dataset: [Download Sat2Map Dataset](https://drive.google.com/drive/folders/1raKeAoFZp5Sc1gtN1VLuq52q2V4vm87S?usp=sharing)
   
    * **CV Notes 1** : [computer vision lecture 01](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes1.pdf)
    * **Cv Notes 2** : [Computer vision Lecture 02](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes2.pdf) 
