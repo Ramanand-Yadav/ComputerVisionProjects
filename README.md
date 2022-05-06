@@ -18,26 +18,22 @@ this readme file contains projects and learning material for openCv.
 
 **-------------------------------------------------------------------------------------------------------------------**
 * # Learning Material for Computer Vision :
-## This foldermhave contains four files
+## This folder contains four files
 
 * Dataset: [Download Sat2Map Dataset](https://drive.google.com/drive/folders/1raKeAoFZp5Sc1gtN1VLuq52q2V4vm87S?usp=sharing)
   
    * **CV Notes 1** : [computer vision lecture 01](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes1.pdf)
    * **Cv Notes 2** : [Computer vision Lecture 02](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/CVNotes2.pdf) 
    * **[Hill Climb Automation](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/Hill%20Climb%20Automation%20Game.ipynb)**  :  This is the project of Computer Vision in which both openCv and Mediapipe is used. 
-        *   To run this project : 
-            * Open Jupyter Notebook
-            * Run the Code using shift + enter
+        *   Open Jupyter Notebook and you can run the project
 
         **output**
         <br><br>
         <img src="image/hil.jpeg"><br><br>
          
    
-   * **[OpenCv and Mediapipe](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/OpenCV%20And%20Mediapipe.ipynb)** : This is the code if someone wants to learn open cv and mediapipe from scratch.
-        * To run the code 
-             * Open Jupyter Notebook
-             * Run the code using shift + enter
+   * **[OpenCv and Mediapipe](https://github.com/Ramanand-Yadav/ComputerVisionProjects/blob/main/LecturesComputerVision/OpenCV%20And%20Mediapipe.ipynb)** : This is the code if anyone wants to learn open cv and mediapipe from scratch.
+        
 <br><br>
 **-----------------------------------------------------------------------------------------------------------------**
 <br><br>
@@ -77,9 +73,7 @@ Surprise 😮
 * # [Gym Assistant : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/GymAssistant)
     ## This is the ipynb file which needed to be run in jupyter notebook to check your push - ups count and up down counts.
 
-    * To run 
-        * Open file in jypyter notebook
-        * Press shift + enter on each code block
+    * Open jupyter notebook and run the project.
 
     **output**
 
@@ -88,49 +82,40 @@ Surprise 😮
         <img src="image/Gym.jpeg"><br><br>
 **-------------------------------------------------------------------------------------------------------------------**
 
-* # [Temple Run Automation  : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/templeRun)
-    ## This is the extendsion of automation of hill climb game. In this we are automating the  populated temple run game.
+* # [TempleRun Automation  : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/templeRun)
+    ## This is the extendsion of automation of hill climb game. In this the populated temple run game is being automated.
 
-    * To run 
-        * Open file in jypyter notebook
-        * Press shift + enter on each code block
+    * Open jupyter notebook and run the program.
 
     **output**
 
-     Surprise 😮
-        <br><br>
+    <br><br>
 <img src="image/Temple.jpeg">
 <br><br>
 
 **-------------------------------------------------------------------------------------------------------------------**
 * # [Virtual Keyboard  : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/VirtualKeyboard) 
-    ##  Now a days technology is faster and wireless so we got an idea to capture keys without any touch and presented our virtual keyboard.
+    ##  Now a days technology is faster and wireless so I came up with the notion of capturing keys without touching them and showed our virtual keyboard.
 
-    * To run 
-        * Open file in jypyter notebook
-        * Press shift + enter on each code block
+    * open jupyter notebook and run the program.
 
     **output**
 
-    Surprise 😮
-        <br><br>
+    <br><br>
 <img src="image/keyboard.jpeg">
 <br><br>
 
 **-----------------------------------------------------------------------------------------------------------------**
     
 * # [Air Drum : ](https://github.com/Ramanand-Yadav/ComputerVisionProjects/tree/main/AirDrum) 
-*    ## In this i build a virtual drum set using basic concepts in computer vision using OpenCV. 
+*    ## In this project, I use OpenCV to create a virtual drum set using fundamental computer vision techniques.
 
-* To Run 
-    * Open any editor install requirements.txt
-    * run python airdrum.py
+* Open jupyter notebook and run the program.
 
 `Blue and Red sticks are needed because I have used a detection window that would detect the color Blue and red.`
 
 **output**
 
-Surprise 😮
 <br><br>
 <img src="image/airdrum.png">
 <br><br>
